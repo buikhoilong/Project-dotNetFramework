@@ -1,0 +1,45 @@
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\bin\Debug\DAO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\bin\Debug\DAO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\bin\Debug\DTO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\bin\Debug\DTO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\obj\Debug\DAO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DAO\obj\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\bin\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\bin\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\bin\Debug\DTO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\bin\Debug\DTO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\obj\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\DAO\obj\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\bin\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\bin\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\bin\Debug\DTO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\bin\Debug\DTO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\obj\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\DAO\obj\Debug\DAO.pdb

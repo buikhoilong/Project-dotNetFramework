@@ -1,0 +1,55 @@
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\bin\Debug\BUS.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\bin\Debug\BUS.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\bin\Debug\DAO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\bin\Debug\DTO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\bin\Debug\DAO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\bin\Debug\DTO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\obj\Debug\BUS.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\BUS\obj\Debug\BUS.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\bin\Debug\BUS.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\bin\Debug\BUS.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\bin\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\bin\Debug\DTO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\bin\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\bin\Debug\DTO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\obj\Debug\BUS.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\BUS\obj\Debug\BUS.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\bin\Debug\BUS.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\bin\Debug\BUS.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\bin\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\bin\Debug\DTO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\bin\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\bin\Debug\DTO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\obj\Debug\BUS.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\BUS\obj\Debug\BUS.pdb

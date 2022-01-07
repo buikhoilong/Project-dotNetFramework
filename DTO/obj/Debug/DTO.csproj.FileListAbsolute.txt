@@ -1,0 +1,6 @@
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DTO\bin\Debug\DTO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DTO\bin\Debug\DTO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DTO\obj\Debug\DTO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DTO\obj\Debug\DTO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

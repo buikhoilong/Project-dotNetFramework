@@ -1,0 +1,138 @@
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\GUIs.exe.config
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\GUIs.exe
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\GUIs.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\BUS.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\DTO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\DAO.dll
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\BUS.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\DTO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\bin\Debug\DAO.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.csprojAssemblyReference.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formDangNhap.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTrangChu.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.Properties.Resources.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.GenerateResource.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.CoreCompileInputs.cache
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.CopyComplete
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.exe
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.pdb
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formLoaiSP.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formKhachHang.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTaiKhoan.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formNhaCungCap.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formSanPham.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTraCuu.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formHoaDonBan.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.formHoaDonNhap.resources
+E:\Google Drive Sync\CKC\HK4\C#\432_434_cdth19e\GUIs\obj\Debug\GUIs.searchKH.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\GUIs.exe.config
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\GUIs.exe
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\GUIs.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\BUS.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\DTO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\BUS.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\DTO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\bin\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.csprojAssemblyReference.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formHoaDonBan.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formHoaDonNhap.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formKhachHang.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formLoaiSP.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formDangNhap.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formNhaCungCap.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formSanPham.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTaiKhoan.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTraCuu.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTrangChu.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.Properties.Resources.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.searchKH.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.GenerateResource.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.CoreCompileInputs.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.CopyComplete
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.exe
+D:\HK4\Programming C WinForm\432_434_cdth19e\GUIs\obj\Debug\GUIs.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\GUIs.exe.config
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\GUIs.exe
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\GUIs.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\BUS.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\DTO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\DAO.dll
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\BUS.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\DTO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\bin\Debug\DAO.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csprojAssemblyReference.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formHoaDonBan.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formHoaDonNhap.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formKhachHang.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formLoaiSP.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formDangNhap.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formNhaCungCap.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formSanPham.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formTaiKhoan.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formTraCuu.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formTrangChu.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.Properties.Resources.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.searchKH.resources
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csproj.GenerateResource.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csproj.CoreCompileInputs.cache
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csproj.CopyComplete
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.exe
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.pdb
+D:\HK4\Programming C WinForm\432_434_cdth19e1\GUIs\obj\Debug\GUIs.searchHD.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\GUIs.exe.config
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\GUIs.exe
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\GUIs.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formHoaDonBan.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formHoaDonNhap.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formKhachHang.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formLoaiSP.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formDangNhap.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formNhaCungCap.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formSanPham.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formTaiKhoan.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formTraCuu.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.formTrangChu.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.Properties.Resources.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.searchHD.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.searchKH.resources
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.csproj.CopyComplete
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.exe
+C:\Users\Admin\Desktop\432_434_cdth19e1\GUIs\obj\Debug\GUIs.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\GUIs.exe.config
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\GUIs.exe
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\GUIs.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formHoaDonBan.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formHoaDonNhap.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formKhachHang.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formLoaiSP.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formDangNhap.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formNhaCungCap.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formSanPham.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTaiKhoan.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTraCuu.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.formTrangChu.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.Properties.Resources.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.searchHD.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.searchKH.resources
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.csproj.CopyComplete
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.exe
+C:\Users\Admin\Desktop\432_434_cdth19e\GUIs\obj\Debug\GUIs.pdb
